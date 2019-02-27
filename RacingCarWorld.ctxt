@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=grd
+comment0.target=RacingCarWorld(info.gridworld.grid.Grid)
+comment1.params=loc
+comment1.target=boolean\ locationClicked(info.gridworld.grid.Location)
+comment2.params=description\ loc
+comment2.target=boolean\ keyPressed(java.lang.String,\ info.gridworld.grid.Location)
+numComments=3

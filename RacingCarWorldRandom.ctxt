@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=grd
+comment0.target=RacingCarWorldRandom(info.gridworld.grid.Grid)
+comment1.params=description\ loc
+comment1.target=boolean\ keyPressed(java.lang.String,\ info.gridworld.grid.Location)
+numComments=2
